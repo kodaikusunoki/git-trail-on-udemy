@@ -76,3 +76,5 @@ if uploaded_file is not None:
     # addの2回目です
 
     # addの3回目です
+
+    # git push -u つけ忘れ対策
