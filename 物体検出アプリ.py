@@ -78,3 +78,5 @@ if uploaded_file is not None:
     # addの3回目です
 
     # git push -u つけ忘れ対策
+
+    # .gitignoreを作ってみた
