@@ -69,3 +69,5 @@ if uploaded_file is not None:
     tags_name = ', '.join(tags_name)
     st.markdown('**認識されたコンテンツタグ**')
     st.markdown(f'> {tags_name}')
+
+    # 2回目のpushです（git練習中）
